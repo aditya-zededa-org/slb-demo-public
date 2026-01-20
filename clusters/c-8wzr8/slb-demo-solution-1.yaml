@@ -1,0 +1,3 @@
+model:
+  name: zededa_resnet50-cars
+  version: 4
